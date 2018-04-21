@@ -1,2 +1,2 @@
 # c_editor
-An attempt to build a text editor in C
+A text editor in C that runs in the terminal. (WIP)
